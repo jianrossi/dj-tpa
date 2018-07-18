@@ -1,0 +1,15 @@
+{
+  "name": "dj-tpa",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
